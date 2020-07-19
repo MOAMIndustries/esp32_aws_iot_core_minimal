@@ -6,8 +6,9 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:/Users/Andrew/Documents/Projects/2020/ESP32-IoT/include",
-                "C:/Users/Andrew/Documents/Projects/2020/ESP32-IoT/src",
+                "c:/Users/Andrew/Documents/Projects/2020/ESP32-IoT/include",
+                "c:/Users/Andrew/Documents/Projects/2020/ESP32-IoT/src",
+                "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -91,7 +92,6 @@
                 "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                 "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                 "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "C:/Users/Andrew/.platformio/packages/tool-unity",
@@ -100,8 +100,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/Andrew/Documents/Projects/2020/ESP32-IoT/include",
-                    "C:/Users/Andrew/Documents/Projects/2020/ESP32-IoT/src",
+                    "c:/Users/Andrew/Documents/Projects/2020/ESP32-IoT/include",
+                    "c:/Users/Andrew/Documents/Projects/2020/ESP32-IoT/src",
+                    "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -185,7 +186,6 @@
                     "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                     "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                     "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                    "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "C:/Users/Andrew/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "C:/Users/Andrew/.platformio/packages/tool-unity",
